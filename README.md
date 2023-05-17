@@ -1,5 +1,15 @@
-[![Coverage Status](https://coveralls.io/repos/github/kalisaNkevin/MyTop100Movies-API/badge.svg?branch=main)](https://coveralls.io/github/kalisaNkevin/MyTop100Movies-API?branch=main)
 [Live link]()
+
+# Stack used and Tools in development
+
+- Typescript
+- Node
+- Mongo Atlas DB
+- Railways for hosting
+- Express
+- VS cpde Editor
+- Mocha and Chai API Testing
+- Swagger for documentation
 
 # MyTop100Movies
 
@@ -7,21 +17,13 @@ Just an API that which lets users set their top 100 movies list.
 
 Feature
 
-- user can create account
-- user can login
-- loggedIn user can create list
-- loggedIn user can delete his lists
-- loggedIn user can update the movies on his/her list
-- loggedin user can delete the list
-- user can fetch all the movies
-- user can search movies
-- user can delete his account
-- user can update his information
-
-# Stack used and Development
-
-- Typescript
-- MongoDB
-- Express
-- Mocha and Chai for API Testing
-- Swagger for documentation
+- Create account
+- Login account
+- An authenticated user can create list
+- An authenticated user can update the movies on his/her list
+- An authenticated user can delete his lists
+- An authenticated user can delete the list
+- An authenticated can fetch all the movies
+- An authenticated search movies
+- An authenticated can delete his account
+- An authenticated can update his information

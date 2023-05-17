@@ -1,0 +1,14 @@
+import { Router } from 'express';
+import sampleRoutes from './sample';
+import userRoutes from './user';
+import moviesRoutes from './movies';
+import movieListRoutes from './movieList';
+import authRoutes from './auth';
+import { isLoggedIn } from '../middlewares/isLoggedIn';
+const router = Router();
+router.use('/sample', sampleRoutes);
+router.use('/users', userRoutes);
+router.use('/movies', moviesRoutes);
+router.use('/lists', [isLoggedIn], movieListRoutes);
+router.use('/auth', authRoutes);
+export default router;

@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/kalisaNkevin/moviesapi/badge.svg)](https://coveralls.io/github/kalisaNkevin/moviesapi)
+[![Coverage Status](https://coveralls.io/repos/github/kalisaNkevin/MyTop100Movies-API/badge.svg?branch=main)](https://coveralls.io/github/kalisaNkevin/MyTop100Movies-API?branch=main)
 [Live link]()
 
 # MyTop100Movies

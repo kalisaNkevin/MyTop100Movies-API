@@ -1,4 +1,4 @@
-[Live link]()
+[Live link](https://mytop100movies-api-production.up.railway.app/api-docs)
 
 # Stack used and Tools in development
 
@@ -7,15 +7,15 @@
 - Mongo Atlas DB
 - Railways for hosting
 - Express
-- VS cpde Editor
+- VS code Editor
 - Mocha and Chai API Testing
 - Swagger for documentation
 
 # MyTop100Movies
 
-Just an API that which lets users set their top 100 movies list.
+Below are the endpoints that lets users set their top 100 movies list.
 
-Feature
+This includes :
 
 - Create account
 - Login account

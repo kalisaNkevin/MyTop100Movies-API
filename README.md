@@ -1,4 +1,4 @@
-[Live link](https://mytop100movies-api-production.up.railway.app/api-docs)
+[View the API Documentation Here](https://mytop100movies-api-production.up.railway.app/api-docs)
 
 # Stack used and Tools in development
 
